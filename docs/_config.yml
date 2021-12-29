@@ -23,12 +23,12 @@ email: claire.bowern@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the companion website to accompany Claire Bowern's "Linguistic Fieldwork: A Practical Guide." 
 baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://lingfieldwork.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chirila.github.io/lingfieldwork" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: Cayman
 plugins:
   - jekyll-feed
 
