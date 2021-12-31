@@ -1,0 +1,316 @@
+\_sh v3.0  231  MDF 4.0
+\_DateStampHasFourDigitYear
+
+\lx ɑːlɒtʰ
+\lc állat
+\ps n
+\ge animal
+\de animal (generic)
+\sd ANIMAL
+\nt I do not hear gemination in the l here, but I did in the compounds involving this word (and transcribed it there).
+\dt 23/Nov/2007
+
+\lx cɪlːʌg
+\lc csillag
+\ps n
+\ge star
+\sd ENVIRONMENT
+\dt 23/Nov/2007
+
+\lx cɔnt
+\lc csont
+\ps n
+\ge bone
+\sd BODY
+\nt palatal stop but cf mɒtʃkɒ, which seems to have more frication. Note lack of final aspiration here.
+\dt 23/Nov/2007
+
+\lx eːg
+\lc ég
+\ps n
+\ge sky
+\sd ENVIRONMENT
+\dt 23/Nov/2007
+
+\lx ɛːg
+\lc ég
+\ps v
+\ge burn
+\sd
+\nt Not sure what form of the
+verb this is.
+\dt 23/Nov/2007
+
+\lx ɛrdø
+\lc erdő
+\ps n
+\ge forest
+\sd
+\dt 23/Nov/2007
+
+\lx ɛʃœː
+\ge rain
+\lc eső
+
+\lx faːkʰ
+\lc fát
+\ge trees
+\lc fák
+
+\lx fɑʔ
+\ge tree, wood
+\lc fa
+
+\lx feːj or fyː
+\ge head (alternatives)
+\lc fej, fő
+
+\lx fog
+\ge tooth
+\lc fog
+\nt CHCK - hard to hear on tape
+
+\lx fyl
+\ge ear
+\lc fül
+
+\lx fyʃt
+\ge smoke
+\lc füst
+
+\lx hɐmukʰ
+\ge ??
+
+\lx hɑmvɒk
+\ge ash
+\nt singular, collective
+
+\lx hæːtʰ
+\ge back
+\lc hát
+
+\lx hɑvɑk
+\ge snows-PL
+\ge snows
+
+\lx haːziɑlːɒtʰ
+\lc háziállat
+\ps n
+\ge animal
+\de tame, domesticated animals
+\sd ANIMAL
+\cf állat
+\nt l sounds especially long here.
+\dt 23/Nov/2007
+
+\lx hoː
+\lc hó
+\ps n
+\ge snow
+\nt This is singular.
+\dt 23/Nov/2007
+
+\lx hɔj
+\lc haj
+\ps n
+\ge hair
+\de head hair
+\sd BODY
+\dt 23/Nov/2007
+
+\lx hoːkʰ
+\ge imaginary plural of snow
+
+\lx hɔl
+\ge fish
+\lc hal
+
+\lx hɔmɔk
+\ge sand
+\lc homok
+
+\lx homu
+\ge ashes
+\lc hamu
+\nt cf the word for sand
+
+\lx honaj søːr
+\ge armpit hair
+\lc hónalj szőr
+
+\lx if you say tɔrk œrœgœt that's from here
+\ge grabbed the throat
+
+\lx jeg
+\ge ice
+\lc jég
+
+\lx jeːg
+\ge ice
+\lc jég
+
+\lx kœː
+\ge stone
+\lc kő
+
+\lx kœrœm
+\ge fingernail
+\lc köröm
+
+\lx kʰeːsfɛj
+\ge hand
+\lc kézfej
+
+\lx keːtʰ fyl
+\ge two ears
+\lc két fül
+\nt Interesting intonation on keːt
+
+\lx kʰeːz
+\ge hand
+\lc kéz
+\nt ... and here's a synchronic alternationǃ
+
+\lx kʰiːsfɛj
+\ge hand
+\lc kézfej
+\nt lit 'head of arm'. note that in this and the previous word, I have written orthographic z as s '(i.e. there's evidence for voicing assimilation in the language, at least historically).
+
+\lx kutʲʰɒ
+\ge dog
+\lc kutya
+\nt Note that the dictionary I checked didn't have this as a word except in compounds
+
+\lx laːb
+\ge leg
+\lc láb
+
+\lx laːbuj kœrœm
+\ge toe nail
+\lc lábujj köröm
+
+\lx lapfej
+\ge foot
+\lc lábfej
+\nt literally 'head of foot'. Given as 'hand' in online dictionary, and as either foot or hand in another. A good question would have been 'can you say [lapfyː] (using the other variant of 'head'?)
+
+\lx lɛveːl
+\ge leaf
+\lc levél
+
+\lx maːj
+\ge liver
+\lc máj
+\nt same vowel as in saːj 'mouth'
+
+\lx mɒdɐːɾ
+\ge bird
+\lc madár
+\nt While I correctly heard the vowel length in the second syllable, I transcribed the previous word with a higher vowel than this word, although they are the same phoneme.
+
+\lx mɒtʃkʰɒ
+\ge cat
+\lc
+
+\lx ɲɛv
+\ge tongue
+\lc nyelv
+\nt nʸ more likely than ɲ
+
+\lx ɲɔkʰ
+\ge neck
+\lc nyak
+
+\lx of ojumɛnten
+\ge standing?
+\nt need to check what this means
+
+\lx ɔr
+\ge nose
+\lc orr
+\nt I didn't transcribe the trill as long, but I probably should have - it's clearly longer here than in other positions.
+
+\lx or eːg ɑtuːz
+\ge the fire's burning
+\lc ég a tűz
+\nt alternative to previous
+
+\lx or honaj sørzɛtʰ
+\lc hónalj szőrzet
+
+\lx ɒtyːz eːg
+\ge the fire is burning
+\lc a tűz ég
+
+\lx saːj
+\ge mouth
+\lc száj
+
+\lx sæm
+\ge eye
+\lc szem
+\nt I've vascilated between sæm and sɛm for this \lx .
+
+\lx sɛːl
+\ge wind
+\lc szél
+
+\lx siːv
+\ge heart
+\lc szív
+
+\lx sør
+\ge body hair
+\lc szőr
+\nt alternative word
+
+\lx søːr
+\ge hair
+\lc szőr
+\nt used for animals and humans.
+
+\lx sørzɛtʰ
+\nt fully released final stop. also, someone else's fur (e.g. fur of fur coat)
+\ge hair
+\ge body hair
+\lc szőrzet
+
+\lx teɲer
+\ge palm of hand
+\lc tenyér
+\nt no aspiration
+
+\lx terd
+\ge knee
+\lc térd
+
+\lx tɔrɔk
+\ge throat
+\lc torok
+\nt no aspiration on either stop
+
+\lx tyːz
+\ge fire
+\lc tűz
+
+\lx veːɾ
+\ge blood
+\lc vér
+\nt check e vs ɛ \lx
+
+\lx viːz
+\ge water
+\lc víz
+
+\lx vɒdɑːlːɒtʰ
+\lc vadállat
+\ps n
+\ge wild animal
+\sd ANIMAL
+\nt final vowel is different from previous token - less round
+\dt 23/Nov/2007
+
+\lx [is it wild or tame?]
+\nt cool! extra semantic information
+
+\lx [so I would say that "burn" and "sky" are the same. To me they are.]

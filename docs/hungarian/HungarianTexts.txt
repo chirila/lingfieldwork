@@ -1,0 +1,773 @@
+\_sh v3.0  621  Text
+
+\id HungarianVP1
+\ref
+\lg
+\ge Number 1: animal
+\TC 00:01:09.838 - 00:01:11.878
+
+\lg [is it wild or tame?]
+\TC 00:01:12.518 - 00:01:13.738
+
+\nt cool! extra semantic information
+\TC 00:01:12.518 - 00:01:13.738
+
+\lg
+\TC 00:01:14.178 - 00:01:14.808
+
+\ge aah: both
+\TC 00:01:14.178 - 00:01:14.808
+
+\nt um: misleading: what I meant was I'd like both words, not "I want the word for an animal which is both wild and tame"
+\TC 00:01:14.178 - 00:01:14.808
+
+\ge either
+\TC 00:01:14.938 - 00:01:15.338
+
+\nt Hence the correction 'either'
+\TC 00:01:14.938 - 00:01:15.338
+
+\lg ɑːlɒtʰ
+\mb ɑːlɒtʰ
+\ge animal
+\ps n
+
+\TC 00:01:17.814 - 00:01:18.378
+
+\TC 00:01:17.814 - 00:01:18.378
+
+Hungarian állat
+\TC 00:01:17.814 - 00:01:18.378
+
+\nt I do not hear gemination in the l here, but I did in the compounds involving this word (and transcribed it there).
+\TC 00:01:17.814 - 00:01:18.378
+
+\lg vɒdɑːlːɒtʰ
+\mb vɒdɑːlːɒtʰ
+\ge wild animal
+\ps n
+
+\TC 00:01:25.098 - 00:01:25.824
+
+\TC 00:01:25.098 - 00:01:25.824
+
+Hungarian vad-
+\TC 00:01:25.098 - 00:01:25.824
+
+\nt final vowel is different from previous token - less round
+\TC 00:01:25.098 - 00:01:25.824
+
+\lg haːziɑlːɒtʰ
+\TC 00:01:37.176 - 00:01:38.136
+
+\ge tame, domesticated animals
+\TC 00:01:37.176 - 00:01:38.136
+
+Hungarian házi-
+\TC 00:01:37.176 - 00:01:38.136
+
+\nt l sounds especially long here.
+\TC 00:01:37.176 - 00:01:38.136
+
+\lg hɔl
+\TC 00:01:47.940 - 00:01:48.438
+
+\ge fish
+\TC 00:01:47.940 - 00:01:48.438
+
+Hungarian hal
+\TC 00:01:47.940 - 00:01:48.438
+
+\lg mɒdɐːɾ
+\TC 00:01:53.148 - 00:01:53.874
+
+\ge bird
+\TC 00:01:53.148 - 00:01:53.874
+
+Hungarian madár
+\TC 00:01:53.148 - 00:01:53.874
+
+\nt While I correctly heard the vowel length in the second syllable, I transcribed the previous word with a higher vowel than this word, although they are the same phoneme.
+\TC 00:01:53.148 - 00:01:53.874
+
+\lg kutʲʰɒ
+\TC 00:02:01.386 - 00:02:01.860
+
+\ge dog
+\TC 00:02:01.386 - 00:02:01.860
+
+Hungarian kutya
+\TC 00:02:01.386 - 00:02:01.860
+
+\nt Note that the dictionary I checked didn't have this as a word except in compounds
+\TC 00:02:01.386 - 00:02:01.860
+
+\lg mɒtʃkʰɒ
+\TC 00:02:07.290 - 00:02:07.938
+
+\ge cat
+\TC 00:02:07.290 - 00:02:07.938
+
+Hungarian 
+\TC 00:02:07.290 - 00:02:07.938
+
+\lg veːɾ
+\TC 00:02:14.160 - 00:02:14.778
+
+\ge blood
+\TC 00:02:14.160 - 00:02:14.778
+
+Hungarian vér
+\TC 00:02:14.160 - 00:02:14.778
+
+\nt check e vs ɛ \lg 
+\TC 00:02:14.160 - 00:02:14.778
+
+\lg cɔnt
+\TC 00:02:19.512 - 00:02:20.070
+
+\ge bone
+\TC 00:02:19.512 - 00:02:20.070
+
+Hungarian csont
+\TC 00:02:19.512 - 00:02:20.070
+
+\nt palatal stop but cf mɒtʃkɒ, which seems to have more frication. Note lack of final aspiration here.
+\TC 00:02:19.512 - 00:02:20.070
+
+\lg hɔj
+\TC 00:02:24.384 - 00:02:24.894
+
+\ge hair
+\TC 00:02:24.384 - 00:02:24.894
+
+Hungarian haj
+\TC 00:02:24.384 - 00:02:24.894
+
+\lg hɔj
+\TC 00:02:31.824 - 00:02:32.616
+
+\ge hair
+\TC 00:02:31.824 - 00:02:32.616
+
+Hungarian haj
+\TC 00:02:31.824 - 00:02:32.616
+
+\nt ie head hair
+\TC 00:02:31.824 - 00:02:32.616
+
+\lg sørzɛtʰ
+\TC 00:02:37.296 - 00:02:38.142
+
+\ge body hair
+\TC 00:02:37.296 - 00:02:38.142
+
+Hungarian szőrzet
+\TC 00:02:37.296 - 00:02:38.142
+
+\lg sør
+\TC 00:02:38.322 - 00:02:38.778
+
+\ge body hair
+\TC 00:02:38.322 - 00:02:38.778
+
+Hungarian szőr
+\TC 00:02:38.322 - 00:02:38.778
+
+\nt alternative word
+\TC 00:02:38.322 - 00:02:38.778
+
+\lg søːr
+\TC 00:02:39.438 - 00:02:40.038
+
+\ge hair
+\TC 00:02:39.438 - 00:02:40.038
+
+Hungarian szőr
+\TC 00:02:39.438 - 00:02:40.038
+
+\nt used for animals and humans.
+\TC 00:02:39.438 - 00:02:40.038
+
+\lg sørzɛtʰ
+\TC 00:02:40.332 - 00:02:41.010
+
+\ge hair
+\TC 00:02:40.332 - 00:02:41.010
+
+Hungarian szőrzet
+\TC 00:02:40.332 - 00:02:41.010
+
+\nt fully released final stop. also, someone else's fur (e.g. fur of fur coat)
+\TC 00:02:40.332 - 00:02:41.010
+
+\lg honaj søːr
+\TC 00:03:34.638 - 00:03:35.412
+
+\ge armpit hair
+\TC 00:03:34.638 - 00:03:35.412
+
+Hungarian hónalj szőr
+\TC 00:03:34.638 - 00:03:35.412
+
+\lg or honaj sørzɛtʰ
+\TC 00:03:36.294 - 00:03:37.404
+
+Hungarian hónalj szőrzet
+\TC 00:03:36.294 - 00:03:37.404
+
+\lg søːr
+\TC 00:03:42.514 - 00:03:43.264
+
+Hungarian szőr
+\TC 00:03:42.514 - 00:03:43.264
+
+\lg feːj or fyː
+\TC 00:04:25.014 - 00:04:26.334
+
+\ge head (alternatives)
+\TC 00:04:25.014 - 00:04:26.334
+
+Hungarian fej, fő
+\TC 00:04:25.014 - 00:04:26.334
+
+\lg fyl
+\TC 00:04:33.794 - 00:04:34.424
+
+\ge ear
+\TC 00:04:33.794 - 00:04:34.424
+
+Hungarian fül
+\TC 00:04:33.794 - 00:04:34.424
+
+\lg keːtʰ fyl
+\TC 00:04:40.124 - 00:04:41.074
+
+\ge two ears
+\TC 00:04:40.124 - 00:04:41.074
+
+Hungarian két fül
+\TC 00:04:40.124 - 00:04:41.074
+
+\nt Interesting intonation on keːt
+\TC 00:04:40.124 - 00:04:41.074
+
+\lg sæm
+\TC 00:04:48.274 - 00:04:48.904
+
+\ge eye
+\TC 00:04:48.274 - 00:04:48.904
+
+Hungarian szem
+\TC 00:04:48.274 - 00:04:48.904
+
+\nt I've vascilated between sæm and sɛm for this \lg .
+\TC 00:04:48.274 - 00:04:48.904
+
+\lg ɔr
+\TC 00:04:54.334 - 00:04:54.874
+
+\ge nose
+\TC 00:04:54.334 - 00:04:54.874
+
+Hungarian orr
+\TC 00:04:54.334 - 00:04:54.874
+
+\nt I didn't transcribe the trill as long, but I probably should have - it's clearly longer here than in other positions.
+\TC 00:04:54.334 - 00:04:54.874
+
+\lg saːj
+\TC 00:05:00.594 - 00:05:01.264
+
+\ge mouth
+\TC 00:05:00.594 - 00:05:01.264
+
+Hungarian száj
+\TC 00:05:00.594 - 00:05:01.264
+
+\lg fog
+\TC 00:05:05.824 - 00:05:06.564
+
+\ge tooth
+\TC 00:05:05.824 - 00:05:06.564
+
+Hungarian fog
+\TC 00:05:05.824 - 00:05:06.564
+
+\nt CHCK - hard to hear on tape
+\TC 00:05:05.824 - 00:05:06.564
+
+\lg ɲɛv
+\TC 00:05:14.444 - 00:05:15.184
+
+\ge tongue
+\TC 00:05:14.444 - 00:05:15.184
+
+Hungarian nyelv
+\TC 00:05:14.444 - 00:05:15.184
+
+\nt nʸ more likely than ɲ
+\TC 00:05:14.444 - 00:05:15.184
+
+\lg kœrœm
+\TC 00:05:24.234 - 00:05:24.854
+
+\ge fingernail
+\TC 00:05:24.234 - 00:05:24.854
+
+Hungarian köröm
+\TC 00:05:24.234 - 00:05:24.854
+
+\lg laːbuj kœrœm
+\TC 00:05:42.824 - 00:05:44.114
+
+\ge toe nail
+\TC 00:05:42.824 - 00:05:44.114
+
+Hungarian lábujj köröm
+\TC 00:05:42.824 - 00:05:44.114
+
+\lg lapfej
+\TC 00:05:58.724 - 00:05:59.634
+
+\ge foot
+\TC 00:05:58.724 - 00:05:59.634
+
+Hungarian lábfej
+\TC 00:05:58.724 - 00:05:59.634
+
+\nt literally 'head of foot'. Given as 'hand' in online dictionary, and as either foot or hand in another. A good question would have been 'can you say [lapfyː] (using the other variant of 'head'?)
+\TC 00:05:58.724 - 00:05:59.634
+
+\lg laːb
+\TC 00:06:11.124 - 00:06:11.616
+
+\ge leg
+\TC 00:06:11.124 - 00:06:11.616
+
+Hungarian láb
+\TC 00:06:11.124 - 00:06:11.616
+
+\lg kʰiːsfɛj
+\TC 00:06:34.327 - 00:06:35.029
+
+\ge hand
+\TC 00:06:34.327 - 00:06:35.029
+
+Hungarian kézfej
+\TC 00:06:34.327 - 00:06:35.029
+
+\nt lit 'head of arm'. note that in this and the previous word, I have written orthographic z as s '(i.e. there's evidence for voicing assimilation in the language, at least historically).
+\TC 00:06:34.327 - 00:06:35.029
+
+\lg kʰeːz
+\TC 00:06:36.829 - 00:06:37.709
+
+\ge hand
+\TC 00:06:36.829 - 00:06:37.709
+
+Hungarian kéz
+\TC 00:06:36.829 - 00:06:37.709
+
+\nt ... and here's a synchronic alternationǃ
+\TC 00:06:36.829 - 00:06:37.709
+
+\lg kʰeːsfɛj
+\TC 00:06:41.539 - 00:06:42.169
+
+\ge hand
+\TC 00:06:41.539 - 00:06:42.169
+
+Hungarian kézfej
+\TC 00:06:41.539 - 00:06:42.169
+
+\lg teɲer
+\TC 00:06:49.776 - 00:06:50.326
+
+\ge palm of hand
+\TC 00:06:49.776 - 00:06:50.326
+
+Hungarian tenyér
+\TC 00:06:49.776 - 00:06:50.326
+
+\nt no aspiration
+\TC 00:06:49.776 - 00:06:50.326
+
+\lg teɲer
+\TC 00:06:52.946 - 00:06:53.536
+
+\ge palm of hand
+\TC 00:06:52.946 - 00:06:53.536
+
+\lg terd
+\TC 00:07:07.636 - 00:07:08.176
+
+\ge knee
+\TC 00:07:07.636 - 00:07:08.176
+
+Hungarian térd
+\TC 00:07:07.636 - 00:07:08.176
+
+\lg ɲɔkʰ
+\TC 00:07:27.876 - 00:07:28.266
+
+\ge neck
+\TC 00:07:27.876 - 00:07:28.266
+
+Hungarian nyak
+\TC 00:07:27.876 - 00:07:28.266
+
+\lg hæːtʰ
+\TC 00:07:35.046 - 00:07:35.556
+
+\ge back
+\TC 00:07:35.046 - 00:07:35.556
+
+Hungarian hát
+\TC 00:07:35.046 - 00:07:35.556
+
+\lg tɔrɔk
+\TC 00:07:51.136 - 00:07:51.626
+
+\ge throat
+\TC 00:07:51.136 - 00:07:51.626
+
+Hungarian torok
+\TC 00:07:51.136 - 00:07:51.626
+
+\nt no aspiration on either stop
+\TC 00:07:51.136 - 00:07:51.626
+
+\lg if you say tɔrk œrœgœt that's from here
+\TC 00:08:35.386 - 00:08:37.306
+
+\ge grabbed the throat
+\TC 00:08:35.386 - 00:08:37.306
+
+\lg siːv
+\TC 00:09:00.316 - 00:09:01.046
+
+\ge heart
+\TC 00:09:00.316 - 00:09:01.046
+
+Hungarian szív
+\TC 00:09:00.316 - 00:09:01.046
+
+\lg maːj
+\TC 00:09:05.826 - 00:09:06.526
+
+\ge liver
+\TC 00:09:05.826 - 00:09:06.526
+
+Hungarian máj
+\TC 00:09:05.826 - 00:09:06.526
+
+\nt same vowel as in saːj 'mouth'
+\TC 00:09:05.826 - 00:09:06.526
+
+\lg fɑʔ
+\TC 00:09:15.756 - 00:09:16.186
+
+\ge tree, wood
+\TC 00:09:15.756 - 00:09:16.186
+
+Hungarian fa
+\TC 00:09:15.756 - 00:09:16.186
+
+\lg ɛrdø
+\TC 00:09:38.036 - 00:09:38.566
+
+\ge forest
+\TC 00:09:38.036 - 00:09:38.566
+
+Hungarian erdő
+\TC 00:09:38.036 - 00:09:38.566
+
+\lg faːkʰ
+\TC 00:10:05.596 - 00:10:06.256
+
+\ge trees
+\TC 00:10:05.596 - 00:10:06.256
+
+Hungarian fák
+\TC 00:10:05.596 - 00:10:06.256
+
+\lg faːkʰ
+\TC 00:10:11.026 - 00:10:11.576
+
+\ge trees
+\TC 00:10:11.026 - 00:10:11.576
+
+Hungarian fát
+\TC 00:10:11.026 - 00:10:11.576
+
+\lg of ojumɛnten
+\TC 00:10:11.936 - 00:10:13.126
+
+\ge standing?
+\TC 00:10:11.936 - 00:10:13.126
+
+\nt need to check what this means
+\TC 00:10:11.936 - 00:10:13.126
+
+\lg lɛveːl
+\TC 00:10:22.586 - 00:10:23.336
+
+\ge leaf
+\TC 00:10:22.586 - 00:10:23.336
+
+Hungarian levél
+\TC 00:10:22.586 - 00:10:23.336
+
+\lg cɪlːʌg
+\TC 00:10:29.716 - 00:10:30.546
+
+\ge star
+\TC 00:10:29.716 - 00:10:30.546
+
+Hungarian csillag
+\TC 00:10:29.716 - 00:10:30.546
+
+\lg viːz
+\TC 00:10:35.896 - 00:10:36.556
+
+\ge water
+\TC 00:10:35.896 - 00:10:36.556
+
+Hungarian víz
+\TC 00:10:35.896 - 00:10:36.556
+
+\lg ɛʃœː
+\TC 00:10:42.636 - 00:10:43.336
+
+\ge rain
+\TC 00:10:42.636 - 00:10:43.336
+
+Hungarian eső
+\TC 00:10:42.636 - 00:10:43.336
+
+\lg kœː
+\TC 00:10:53.846 - 00:10:54.526
+
+\ge stone
+\TC 00:10:53.846 - 00:10:54.526
+
+Hungarian kő
+\TC 00:10:53.846 - 00:10:54.526
+
+\lg hɔmɔk
+\TC 00:10:59.676 - 00:11:00.186
+
+\ge sand
+\TC 00:10:59.676 - 00:11:00.186
+
+Hungarian homok
+\TC 00:10:59.676 - 00:11:00.186
+
+\lg eːg
+\TC 00:11:07.036 - 00:11:07.656
+
+\ge sky
+\TC 00:11:07.036 - 00:11:07.656
+
+Hungarian ég
+\TC 00:11:07.036 - 00:11:07.656
+
+\lg sɛːl
+\TC 00:11:13.326 - 00:11:14.146
+
+\ge wind
+\TC 00:11:13.326 - 00:11:14.146
+
+Hungarian szél
+\TC 00:11:13.326 - 00:11:14.146
+
+\lg eːg
+\TC 00:11:21.834 - 00:11:22.444
+
+\ge sky
+\TC 00:11:21.834 - 00:11:22.444
+
+Hungarian ég
+\TC 00:11:21.834 - 00:11:22.444
+
+\lg sɛːl
+\TC 00:11:22.464 - 00:11:23.094
+
+\ge wind
+\TC 00:11:22.464 - 00:11:23.094
+
+Hungarian szél
+\TC 00:11:22.464 - 00:11:23.094
+
+\lg eːg
+\TC 00:11:26.784 - 00:11:27.304
+
+\ge sky
+\TC 00:11:26.784 - 00:11:27.304
+
+Hungarian ég
+\TC 00:11:26.784 - 00:11:27.304
+
+\lg sɛːl
+\TC 00:11:27.304 - 00:11:28.014
+
+\ge wind
+\TC 00:11:27.304 - 00:11:28.014
+
+Hungarian szél
+\TC 00:11:27.304 - 00:11:28.014
+
+\lg hoː
+\TC 00:11:35.864 - 00:11:36.474
+
+\ge snow
+\TC 00:11:35.864 - 00:11:36.474
+
+Hungarian hó
+\TC 00:11:35.864 - 00:11:36.474
+
+\lg jeg
+\TC 00:11:41.924 - 00:11:42.514
+
+\ge ice
+\TC 00:11:41.924 - 00:11:42.514
+
+Hungarian jég
+\TC 00:11:41.924 - 00:11:42.514
+
+\lg fyʃt
+\TC 00:11:49.073 - 00:11:49.643
+
+\ge smoke
+\TC 00:11:49.073 - 00:11:49.643
+
+Hungarian füst
+\TC 00:11:49.073 - 00:11:49.643
+
+\lg tyːz
+\TC 00:11:57.963 - 00:11:58.603
+
+\ge fire
+\TC 00:11:57.963 - 00:11:58.603
+
+Hungarian tűz
+\TC 00:11:57.963 - 00:11:58.603
+
+\lg homu
+\TC 00:12:09.143 - 00:12:09.773
+
+\ge ashes
+\TC 00:12:09.143 - 00:12:09.773
+
+Hungarian hamu
+\TC 00:12:09.143 - 00:12:09.773
+
+\nt cf the word for sand
+\TC 00:12:09.143 - 00:12:09.773
+
+\lg hɑmvɒk
+\TC 00:12:30.762 - 00:12:31.326
+
+\ge ash
+\TC 00:12:30.762 - 00:12:31.326
+
+\nt singular, collective
+\TC 00:12:30.762 - 00:12:31.326
+
+\lg hɐmukʰ
+\TC 00:12:31.872 - 00:12:32.334
+
+\ge ??
+\TC 00:12:31.872 - 00:12:32.334
+
+\lg hoːkʰ
+\TC 00:12:42.330 - 00:12:42.852
+
+\ge imaginary plural of snow
+\TC 00:12:42.330 - 00:12:42.852
+
+\lg hɑvɑk
+\TC 00:12:43.848 - 00:12:44.334
+
+\ge snows
+\TC 00:12:43.848 - 00:12:44.334
+
+\lg hoː
+\TC 00:12:45.876 - 00:12:46.140
+
+\ge snow-SG
+\TC 00:12:45.876 - 00:12:46.140
+
+Hungarian hó
+\TC 00:12:45.876 - 00:12:46.140
+
+\lg hɑvɑk
+\TC 00:12:46.140 - 00:12:46.596
+
+\ge snows-PL
+\TC 00:12:46.140 - 00:12:46.596
+
+\lg ɒtyːz eːg
+\TC 00:13:58.380 - 00:13:59.196
+
+\ge the fire is burning
+\TC 00:13:58.380 - 00:13:59.196
+
+Hungarian a tűz ég
+\TC 00:13:58.380 - 00:13:59.196
+
+\lg or eːg ɑtuːz
+\TC 00:13:59.844 - 00:14:00.846
+
+\ge the fire's burning
+\TC 00:13:59.844 - 00:14:00.846
+
+Hungarian ég a tűz
+\TC 00:13:59.844 - 00:14:00.846
+
+\nt alternative to previous
+\TC 00:13:59.844 - 00:14:00.846
+
+\lg ɛːg
+\TC 00:14:25.482 - 00:14:26.148
+
+\ge sky
+\TC 00:14:25.482 - 00:14:26.148
+
+Hungarian ég
+\TC 00:14:25.482 - 00:14:26.148
+
+\lg jeːg
+\TC 00:14:26.982 - 00:14:27.720
+
+\ge ice
+\TC 00:14:26.982 - 00:14:27.720
+
+Hungarian jég
+\TC 00:14:26.982 - 00:14:27.720
+
+\lg ɛːg
+\TC 00:14:28.734 - 00:14:29.256
+
+\ge burn
+\TC 00:14:28.734 - 00:14:29.256
+
+Hungarian ég
+\TC 00:14:28.734 - 00:14:29.256
+
+\lg [so I would say that "burn" and "sky" are the same. To me they are.]
+\TC 00:14:31.306 - 00:14:35.806
+
+\lg
+\TC 00:14:37.576 - 00:14:39.426
+
+\ge uh, even though I wrote them with... [different symbols]
+\TC 00:14:37.576 - 00:14:39.426
+
+\mb
+\ge
+\ps
+
+\ft
+\nt
