@@ -21,7 +21,7 @@ Some work to get you started in thinking about and discussing these topics (in c
 
 * Hill, Jane H. 2002. “Expert Rhetorics” in Advocacy for Endangered Languages: Who Is Listening, and What Do They Hear? _Journal of Linguistic Anthropology_ 12.119–133. doi:10/b34xkf. [jstor](http://www.jstor.org/stable/43104007)
 * Davis, Jenny L. 2017. Resisting rhetorics of language endangerment: Reclamation through Indigenous language survivance. [Language Documentation and Description](http://www.elpublishing.org/itempage/151). 14, 37-58
-* Gaby, Alice.; and Lesley Woods. 2020. Toward linguistic justice for Indigenous people: A response to Charity Hudley, Mallinson, and Bucholtz. Language 96. Linguistic Society of America.e268–e280. [doi:10/gh6322.](https://muse.jhu.edu/article/775381)
+* Gaby, Alice.; and Lesley Woods. 2020. Toward linguistic justice for Indigenous people: A response to Charity Hudley, Mallinson, and Bucholtz. _Language_ 96. Linguistic Society of America.e268–e280. [doi:10/gh6322.](https://muse.jhu.edu/article/775381)
 
 
 
