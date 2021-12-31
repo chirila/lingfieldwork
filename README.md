@@ -3,7 +3,7 @@
 Materials to accompany Claire Bowern's _Linguistic Fieldwork: A Practical Guide_ (2nd edition)
 
 * Additional notes for each [chapter](chapters.md) and notes on updates
-* [links](links.md)
+* [links](links.html)
 * [checklists](checklists.md)
 * [equipment](eqipment.md)
 * [sample](sample.md)
