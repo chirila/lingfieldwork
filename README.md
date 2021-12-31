@@ -9,7 +9,7 @@ Materials to accompany Claire Bowern's _Linguistic Fieldwork: A Practical Guide_
 * [sample](sample.md)
 * [resources](resources.md)
 * [errata](errata.md) (for the first edition)
-* [Zotero bibliography with selected references](https://www.zotero.org/groups/4549903/lingfieldwork/library)
+* [Zotero bibliography with selected references](https://www.zotero.org/groups/4549903/lingfieldwork/library); [bibliography](bibliography.html)
 
 
 To request an update or addition to the site, please open an [issue](https://github.com/chirila/lingfieldwork/issues).
