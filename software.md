@@ -3,14 +3,24 @@
 
 I'm recommending the following software tools on the basis of what I've tried out. I welcome suggestions for new software tools - please send them to me using the ['issues' link](https://github.com/chirila/lingfieldwork/issues). This is not a comprehensive list.
 
-* Data collection, lexical collection, interlinearisation, etc. I do not currently have a softwarse tool I can recommend. [Flex](https://software.sil.org/fieldworks/download/) is popular but to my mind is deeply problematic. Briefly, the issues are that it only works on Windows; it is difficult to get information into and out of it. 
-* Parsers: Alchemist (Review), Linguistica, ITE
-* Lexicography: TshwaneLex (specifically for dictionary creation) (Review), LexiquePro; Toolbox
-* Phonetics: Praat, Akustyk
-* Corpus software (in addition to Toolbox): Monoconc
-Sound editing: Audiamus, Audacity
-Transcribing: Elan, Transcriber
-Keyboard mapping software: Keyman
+* Data collection, lexical collection, interlinearisation, etc. I do not currently have a softwarse tool I can recommend. [Flex](https://software.sil.org/fieldworks/download/) is popular but also problematic. Many currently work in [Elan](https://archive.mpi.nl/tla/elan) exclusively, which works ok if the primary mode of corpus compilation is video or audio, but does not work so well if there are also print materials
+* Lexicography: 
+    - [TshwaneLex](http://tshwanedje.com/tshwanelex/) (specifically for dictionary creation) (Review) 
+    - LexiquePro and Toolbox are no longer maintained. 
+* Phonetics: 
+    - Praat
+* Corpus software (in addition to Toolbox): 
+    - Monoconc
+* Sound editing: 
+    - Audiamus
+    - Audacity 
+* Transcribing: 
+    - Elan
+    - Transcriber
+    - Childes (CLAN?)
+* Keyboard mapping software: 
+    - Mostly not needed, 
+    - Keyman
 Fonts: IPA (Gentium, Charis, Doulos)
 Other software links:
 UCL Speech prompt and record system software
