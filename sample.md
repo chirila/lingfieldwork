@@ -18,14 +18,13 @@ In the end, we did not do most of the plan. We did part of a basic vocabulary li
 
 The files on this site are the following:
 
-* Toolbox vocabulary file [Toolbox] [exported RTF file]
-* Toolbox interlinearised sentence file with comments [Toolbox] [exported RTF file]
-* Toolbox settings files [zip]
+* Toolbox vocabulary file [Toolbox](docs/hungarian/HungarianDictionary.txt) [exported RTF file](docs/hungarian/HungarianWordlist.rtf)
+* Toolbox interlinearised sentence file with comments [Toolbox](docs/hungarian/HungarianTexts.txt) [exported RTF file](docs/hungarian/HungarianTexts.rtf)
+* Toolbox settings files [zip](docs/hungarian/Settings.zip)
 * Elan annotated transcription files. Warning: when you open the file, you'll need to specify the location of the audio.
 	- File 1 [HungarianVP1.eaf](docs/hungarian/HungarianVP1.eaf)
 	- File 2 [HungarianVP2.eaf](docs/hungarian/HungarianVP2.eaf)
 * Audio files of the session:
-	- File 1 [HungarianVP1.wav - 152mb] [HungarianVP1.mp3 - 8mb]
-	- File 2 [HungarianVP2.wav - 345mb] [HungarianVP2.mp3 - 19.5mb]
-* Metadata information [PDF] [Excel] [Filemaker]. The filemaker database is a runtime database that you are welcome to use for your own field recordings. However, I'd appreciate acknowledgment if you do use it.
-* The Hungarian online dictionary I used to check some of the transcriptions (I also used a printed dictionary, this Introduction to Hungarian and Vica checked the transcript).
+	- File 1 [HungarianVP1.wav - 78mb](docs/hungarian/HungarianVP1.wav) [HungarianVP1.mp3 - 8mb](docs/hungarian/HungarianVP1.mp3) - sampled at 44.1kHz
+	- File 2 [HungarianVP2.wav - 84mb](docs/hungarian/HungarianVP2.wav) [HungarianVP2.mp3 - 19.5mb](docs/hungarian/HungarianVP2.mp3)  - sampled at 22kHz due to github's file size constraints.
+* The [Hungarian online dictionary](https://www.freedict.com/onldict/onldict.php) I used to check some of the transcriptions (I also used a printed dictionary, an Introduction to Hungarian, and Vica checked the transcript).
