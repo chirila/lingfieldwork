@@ -1,248 +1,216 @@
-(note that links go to [bookshop.org](https://bookshop.org), which generates affiliate links which are donated to the Endangered Language Fund)
-
-
-
-# Chapter 2
-
-2.2.1: The summary of types of audio devices is given on the equipment page. See also UCL's recording page. While 44,100 Hz is a good standard for audio archiving, most people create working copies of their files which have a lower sampling rate (usually 22,050 Hz). It's possible to resample files in batches using Praat, Sound Forge or another audio program.
-
-2.2.4: Microphones
-
-I don't recommend radio microphones, although they are tempting, because they make it easier to record while walking around. However, the recording quality is variable.
-
-I used lapel microphones on my most recent trip and they had both advantages and disadvantages. It was possible to reduce wind noise by having the speaker sit with their back to the wind; their body shielded the microphone to some extent. However, it was hard to position them because of the type of clothing everyone was wearing. Also, one of the clips was a bit loose and there was no way of tightening it. Clipping the mics to my equipment bag produced reasonable (if slightly soft) recordings when there was no wind. Sticking them inside the equipment bag produced reasonably good recordings of manikay (songs).
-
-Transcription software:
-
-Elan
-Transcriber
-Transana
-2.6 The equipment setup checklist is on the checklists page.
-
-2.7: Here are some suggestions for further reading:
-
-Journals
-Language Archives Newsletter
-Language Documentation and Conservation
-Paradisec
-Best practice for recording:
-EMELD
-Bartek Pycha, including his recommendations for field linguists.
-AIATSIS
-ELDP
-Solar power
-Solar Power in the Field [2006]
-Solar Power for the Digital Fieldworker [2007]
-Powerless in the Field: A Cautionary Tale...
-Eva Lindstrom's solar page
-Chapter 3
-
-3.1.3: First wordlists
-
-A list of semantic fields [PDF]
-A Swadesh wordlist, categorised by semantic field. [PDF] [Word]
-Semantic field codings for European languages
-3.4: Common transcription errors
-
-IPA symbol and sound samples
-3.5: Data organisation and fieldnotes
-
-Handout for things to think about when writing fieldnotes.
-Keyboard mapping software
-PC: Keyman
-Mac: Ukelele
-Unicode Fonts:
-HRELP's technology page
-IPA and Unicode (John Wells)
-Alan Wood's Unicode page
-Transcription software handout [PDF]
-3.7: Elicitation procedures checklist
-
-The first field session: see the data here for Hungarian.
-
-Chapter 4
-
-4.1 Preparation. I'm not a big fan of endless lists, colour-coding, or anything like that, but I do recommend some way of keeping track of the tasks you need to do in the field, if only because there is so much to do. It's very easy to lose track of urgent items. You could use a "task" program, keep a list in a file in your database, or use a notebook.
-
-There's a formal elicitation plan in the sample Hungarian data. To be honest, I'm never this organised in the field. I usually just write down a heap of prompts (organised by topic) and get through as many as possible, which varies a lot depending on digressions, interruptions, etc. I'll mark the stuff I want to do in a session with post-it notes. It has the advantage of flexibility.
-
-A comment re pens, etc. The cheaper the pens and paper the better they seem to resist water damage. I've never done any experiments on this but it's my impression after many trips where I've returned with wet pieces of paper from boat trips, leaking ceilings or coffee/water spills.
-
-4.2.1 Backups: Use name-brand CDs and DVDs rather than noname brands: they are slightly higher quality, have a lower failure rate and are probably a bit more durable.
-
-I've heard of several hard drive failure stories that resulted in extensive data loss (and have had a couple of near-misses myself). Don't just use one type of backup media! Also, remember never to store your backups in the same place. It's very easy to do this accidentally, for example by piling up a bunch of DVDs with your computer for a week before sending them off.
-
-4.2.2 On labelling: I use a system that involves my initials (CB), a language abbreviation (e.g. YN for Yan-nhaŋu), the session number and the track number. This is a compromise after many years of multiple audio formats (analogue casette, mini-disc, DAT and Compact Flash) and a recording collection that includes items from many different collectors. (I don't use standard abbreviations because not all the languages I've worked on have ISO-639 codes, and I don't use dates because I have recordings where the date isn't known.) If I were starting with a numbering system now, I'd use one based on collection or date.
-
-4.3 Software. See here for my recommendations. I highly recommend using software that will run without an internet connection.
-
-Test your computer before you leave. Once you're in the field, don't change too many settings or uninstall programs unless you absolutely have to. You don't want to do anything that is likely to make your system unstable.
-
-4.4 Metadata
-
-A useful resource is http://ahds.ac.uk/creating/information-papers/metadata/index.htm
-
-Some metadata lists useful for linguistics:
-
-(Links open in a new window)
-
-http://ahds.ac.uk/creating/information-papers/metadata/index.htm
-EMELD ORE Metadata Editor
-DSpace
-ELDP Metadata for depositors
-IMDI metadata tools
-4.6 Archiving
-
-DELAMAN
-Survey of Californian and Other Indian Languages
-Hans Rausing Endangered Languages Documentation Project
-Australian Institute of Aboriginal and Torres Strait Islander Studies
-African Language Material Archive
-Alaska Native Language Center
-Archive of the Indigenous Languages of the Americas
-LACITO
-Smithsonian National Anthropological Archives
-Rosetta Project
-Texas German Dialect Project
-Chapter 5
-
-Further links:
-
-UCL Speech prompt and record system software
-Geoff Morrison's Acoustic Recording Software page
-Praat scripts archive
-Chapter 6
-
-6.3.3: Questionnaires: Peter Cole's site has links to many questionnaires.
-
-6.5.2: Further reading:
-
-Pear story videos (see also Chafe's site)
-Austronesian basic vocabulary database
-The full version of Himmelmann's Documentary and Descriptive Linguistics.
-Chapter 7
-
-Leipzig Interlinear Glossing rules.
-Carson Schutze's paper on grammaticality judgments [PDF]
-Chapter 8
-
-8.2: Lexicon development
-
-SIL Dictionary Development Tool
-ESL/EFL Basic Vocabulary lists
-Lexicography and Australian languages
-Semantic fields
-Place names: If you have an internet connection, you might be able to use Google Earth for site mapping.
-A useful list of genealogical software used by anthropologists (another general list can be found here)
-Chapter 9
-
-(nothing yet)
-
-Chapter 10
-
-10.2.3: Languages and linguists: Here are some suggestions for finding data sources:
-
-Language Documentation Search (EMELD)
-Who's working on your language? (EMELD)
-(see also the list on the links page)
-Your campus' international office might be willing to post an ad.
-People have met speakers of languages they were researching on MySpace and Facebook.
-10.2.4: When to travel: Wunderground has global weather statistics.
-
-10.6.3: Health: Eva Lindstrm's page has much useful information about travel to Papua New Guinea (much more generally applicable)
-
-Travel advice:
-
-USA Department of State's warnings
-Australia
-Canada
-New Zealand
-UK
-Diseases
-
-Tropical disease links from the American Society of Tropical Medicine and Hygiene.
-10.6.4: Fear and culture shock: Peace Corps' culture shock links.
-
-Chapter 11
-
-11.6.3: Exoticisation: Here is the Language Log post mentioned in the text.
-
-11.8: Endangered languages: There are suggestions on the links page, including fieldword blogs,
-
-Further links:
-
-See also the sample consent forms and scripts for obtaining informed consent.
-Chapter 12
-
-12.4: Human Subjects:
-
-Title 45 legislation (USA)
-Canadian Institutes of Health
-Helsinki Declaration
-Grant Bodies:
-
-National Science Foundation (USA);
-NSF/NEH: Documenting Endangered Languages Program
-HRELP
-AIATSIS (Australia only)
-Smithsonian (USA only)
-ELF (Endangered Languages Foundation)
-FEL (Foundation for Endangered Languages)
-Ethics:
-
-Further information about fieldwork and ethics
-
-Keren Rice's comments
-Mark Liberman
-http://www.linguistics.ucla.edu/people/cschutze/thinking_asking.pdf
-Ethics and Archiving:
-
-A sample deposit form with access considerations is available from http://www.aiatsis.gov.au/lbry/cllctns/deposit_frm.pdf.
-
-Ethical dilemmas for discussion:
-
-You're working with two consultants, one of whom is happy to be videoed, the other of whom isn't. What do you do?
-You're invited to a one-on-one language session with an old man who's widely rumoured to be beating his wife. What do you do?
-You're working in an area where the leading cause of death is diabetes. Your consultants visit and put 4 tablespoons of sugar in their tea. What do you do (if anything)?
-Your IRB requires informed consent in writing, but none of the people you work with can read and write. Your IRB says they will accept consent forms signed on behalf of the consultants by someone who can read and write, but the only person in the area who can do this (beside you) is the local police officer, who is held in extremely low esteem. How will you organise informed consent to everyone's satisfaction?
-You've been asked by the local school to start language classes, but the village elders are concerned that a substandard form of the language will be taught. How do you proceed?
-Your supervisor doesn't see what all the fuss with IRBs is about and tells you there's no need to apply for clearance before you go to the field. Are they right? If not, what do you do?
-One of your grant funding conditions is that the results of your research be made generally available, however your consultants aren't sure they want their language put on the web. How will you proceed?
- 
-
-Chapter 13
-
-13.1: Finding records:
-
-Google Scholar
-mura (AIATSIS Catalogue)
-DELAMAN
-PARADISEC
-EMELD
-LinguistList search engine
-Chapter 14
-
-14.1.3: Documentation and Description: Himmelmann's paper
-
-14.3: Learner's Guides and Sketch Grammars:
-
-Here's a list
-
-14.4: Reference grammars:
-
-Mouton Grammar library
-
-14.6: Web materials
-
-some samples:
-
-14.8: Lexicography resources
-
-14.9: Language revitalisation
-
- 
-
-Matapuna lexicography software
-TshwaneLex software
-Toolbox
-Miromaa
+#Links
+
+(note that links for books go to [bookshop.org](https://bookshop.org), which generates affiliate links which are donated to the Endangered Language Fund)
+
+   
+    <p> 
+      This page contains links to sites mentioned in the
+      book. All links open in a new window. </p>
+	  <ul>
+	    <li><a href="#archives">Archives</a></li>
+	  <li><a href="#blogs">Blogs</a></li>
+	    <li><a href="#elicitation">Elicitation</a></li>
+	    <li><a href="#ethics">Ethics</a></li>
+	    <li><a href="#grants">Grants</a></li>
+	    <li><a href="#IPA">IPA</a></li>
+	    <li><a href="#journals">Journals</a></li>
+	  <li><a href="#metadata">Metadata</a></li>
+	  <li><a href="#projects">Projects</a></li>
+	    <li><a href="#recording">Recording</a></li>
+	  <li><a href="#solar">Solar</a></li>
+	  <li><a href="#sources">Sources</a></li>
+	  <li>(see also the software links <a href="software.htm#softwarelinks">here</a>) </li>
+	  </ul>
+    <h3>Where to start</h3>
+    <ul>
+      <li><a href="http://www.ethnologue.com">Ethnologue</a></li>
+      <li><a href="http://linguistlist.org/emeld/index.cfm" target="_blank">EMELD</a></li>
+      <li><a href="http://linguistlist.org" target="_blank">LinguistList</a></li>
+      <li><a href="http://www.chass.utoronto.ca/lingfieldwork/" target="_blank">Toronto fieldwork site</a></li>
+      <li><a href="http://www.hrelp.org/languages/resources/orel/end_rev.html" target="_blank">OREL</a></li>
+    </ul>
+	  
+	  <h3><a name="archives">Archives and archiving </a> </h3>
+	  <ul>
+	    <li><a href="http://www.delaman.org" target="_blank">DELAMAN</a></li>
+	    <li><a href="http://www.linguistics.berkeley.edu/Survey/index.html" target="_blank">Survey
+	        of Californian and Other Indian Languages</a></li>
+	    <li> <a href="http://www.hrelp.org" target="_blank">Hans Rausing Endangered
+	        Languages Documentation Project</a></li>
+	    <li><a href="http://www.aiatsis.gov.au">Australian Institute of Aboriginal
+	        and Torres Strait Islander Studies</a></li>
+	    <li><a href="http://www.warc-croa.org/alma.htm" target="_blank">African
+	        Language Material Archive</a></li>
+	    <li><a href="http://www.uaf.edu/anlc/" target="_blank">Alaska Native Language
+	        Center</a></li>
+	    <li><a href="http://www.ailla.utexas.org/site/welcome.html" target="_blank">Archive
+	        of the Indigenous Languages of the Americas</a></li>
+	    <li><a href="http://lacito.vjf.cnrs.fr/archivage/index.htm" target="_blank">LACITO</a></li>
+	    <li><a href="http://www.nmnh.si.edu/naa/" target="_blank">Smithsonian National
+	        Anthropological Archives</a></li>
+	    <li> <a href="http://www.rosettaproject.org/" target="_blank">Rosetta Project</a></li>
+    <li><a href="http://www.loc.gov/standards/iso639-2/" target="_blank">ISO-639</a> language
+      codes </li>
+    </ul>
+	  <h3><a name="blogs">Blogs</a></h3>
+      <ul>
+        <li><a href="http://blogs.usyd.edu.au/elac/" target="_blank">Transient
+            Languages and Cultures</a> </li>
+        <li><a href="http://anggarrgoon.wordpress.com/" target="_blank">Anggarrgoon</a></li>
+        <li><a href="http://langguj.blogspot.com/" target="_blank">Langguj Gel</a></li>
+        <li><a href="http://www.munanga.blogspot.com/" target="_blank">That Munanga
+            Linguist</a></li>
+        <li>
+          <a href="http://savageminds.org">Savage Minds</a> (anthropology blog
+          that includes regular posts on Ethnography and IRBs)</li>
+        <li><a href="http://lughat.blogspot.com/" target="_blank">Jabal al-Lughat</a></li>
+        <li><a href="http://www.matjjin-nehen.com/" target="_blank">Matjjin-nehen</a></li>
+        <li><a href="http://livinglanguages.wordpress.com/" target="_blank">Living
+            Languages</a></li>
+        <li>(Please email me if you would like your blog added here.) </li>
+      </ul>
+    <h3><a name="elicitation">Elicitation and Vocab building </a></h3>
+    <ul>
+      <li><a href="http://www.pearstories.org/" target="_blank">Pear story</a> videos
+        (see also <a href="http://www.linguistics.ucsb.edu/faculty/chafe/pearfilm.htm" target="_blank">Chafe's
+        site</a>)</li>
+      <li><a href="http://language.psy.auckland.ac.nz/austronesian/webedit.php" target="_blank">Austronesian
+          basic vocabulary</a> </li>
+      <li><a href="http://www.eva.mpg.de/lingua/files/morpheme.html" target="_blank">Leipzig
+          Interlinear Glossing</a> rules</li>
+      <li>SIL <a href="http://www.sil.org/computing/ddp/" target="_blank">Dictionary
+          Development</a> Tool </li>
+      <li>ESL/EFL <a href="http://www.manythings.org/vocabulary/lists/a/" target="_blank">Basic
+          Vocabulary lists </a></li>
+      <li><a href="http://www.anu.edu.au/linguistics/nash/lexicog/" target="_blank">Lexicography
+          and Australian languages </a></li>
+      <li>Place names: If you have an internet connection, you might be able
+        to use <a href="http://earth.google.com" target="_blank">Google Earth</a> for
+      site mapping.</li>
+      <li>A <a href="http://www.ausanthrop.net/atsigen/gene_prg.php" target="_blank">useful
+          list</a> of genealogical software used by anthropologists (another
+          general list can be found <a href="http://www.genhomepage.com/software.html" target="_blank">here</a>) </li>
+    <li><a href="http://www.icsi.berkeley.edu/wcs/data.html" target="_blank">World
+      color survey</a> (Berkeley) </li>
+    <li><a href="http://www.utexas.edu/cola/centers/lrc/iedocctr/ie-ling/ie-sem/ie-sem.html" target="_blank">Semantic
+      field codings for European languages</a></li>
+    <li><font face="Verdana"><a href="http://www.ling.udel.edu/pcole/fieldmethods/fieldwork_tools_and_resour.htm" target="_blank">Peter
+      Cole's site </a></font>which has extensive lists of field questionnaires
+      and other materials</li>
+    <li><a href="http://www.eva.mpg.de/lingua/files/morpheme.html" target="_blank">Leipzig
+        Interlinear Glossing</a> rules</li>
+    <li><a href="http://www.eslhq.com/gallery/browseimages.php?c=541&userid=" target="_blank">Education
+        site</a>, including flash card pictures, useful for preparing elicitation
+      prompts</li>
+    <li>Phil Cash Cash's <a href="http://www.u.arizona.edu/%7Ecashcash/aildi_2007/online_resources.html" target="_blank">page</a> on language teaching resources</li>
+    <li>Carson Schutze's paper on grammaticality judgments [<a href="http://www.linguistics.ucla.edu/people/cschutze/thinking_asking.pdf" target="_blank">PDF</a>] </li>
+    </ul>
+    <p>&nbsp;</p>
+    <h3><a name="ethics">Ethics</a></h3>
+    <ul>
+      <li><em>Guidelines for Ethical Research in Indigenous
+      Studies</em>. [<a href="http://www.aiatsis.gov.au/__data/assets/pdf_file/2290/ethics_guidelines.pdf" target="_blank">PDF</a>] </li>
+    <li><em>Ethical Conduct for Research Involving Humans </em>[<a href="http://www.pre.ethics.gc.ca/english/policystatement/policystatement.cfm" target="_blank">html</a>] </li>
+    </ul>
+    <h3><a name="grants">Grants</a></h3>
+<ul>
+  <li><a href="http://nsf.gov" target="_blank">National Science Foundation</a> (USA); </li>
+  <li>NSF/NEH: Documenting Endangered Languages Program </li>
+  <li><a href="http://hrelp.org" target="_blank">HRELP</a></li>
+  <li><a href="http://www.aiatsis.gov.au" target="_blank">AIATSIS</a></li>
+</ul>
+<h3><a name="IPA"></a>IPA
+      symbol and sound samples</h3>
+   <ul>   <li>Peter Ladefoged's <em>Vowels and Consonants </em><a href="http://www.phonetics.ucla.edu/course/chapter1/chapter1.html" target="_blank">clickable
+         IPA chart</a>. </li>
+      <li><a href="http://www.arts.gla.ac.uk/IPA/sounds.html" target="_blank">IPA illustrative
+      sound files</a>, part II of the <em>Handbook of the IPA. </em></li>
+      <li>Keyboard mapping software 
+          <ul>
+            <li>PC: <a href="http://tavultesoft.com/" target="_blank">Keyman</a></li>
+              <li>Mac: <a href="http://www.sil.org/computing/catalog/show_software.asp?id=94" target="_blank">Ukelele</a> </li>
+          </ul>
+      </li>
+      <li>Unicode Fonts:</li>
+          <ul>
+            <li><a href="http://www.hrelp.org/languages/resources/orel/tech.html" target="_blank">HRELP's
+                      technology page</a></li>
+              <li><a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm" target="_blank">IPA
+                  and Unicode</a> (John Wells) </li>
+              <li>Alan Wood's <a href="http://www.alanwood.net/unicode/" target="_blank">Unicode
+                  page </a></li>
+          </ul>
+    </ul>
+      <h3><a name="journals">Journals</a></h3>
+	  
+	  
+	  <ul>
+            <li><a href="http://www.mpi.nl/LAN/" target="_blank">Language Archives
+                Newsletter</a></li>
+            <li><a href="http://nflrc.hawaii.edu/ldc/" target="_blank">Language
+                Documentation and Conservation</a></li>
+            <li><a href="http://paradisec.org.au/home.html" target="_blank">Paradisec</a></li>
+    <li>Linguistic Discovery [dormant?]</li>
+    </ul>
+     <h3><a name="metadata">Metadata</a></h3>
+     <ul>
+       <li><a href="http://ahds.ac.uk/creating/information-papers/metadata/index.htm" target="_blank">http://ahds.ac.uk/creating/information-papers/metadata/index.htm</a></li>
+       <li>EMELD <a href="http://linguistlist.org/emeld/tools/ore.cfm" target="_blank">ORE
+           Metadata Editor </a></li>
+       <li><a href="http://www.dspace.org/" target="_blank">DSpace</a></li>
+       <li><a href="http://www.hrelp.org/archive/depositors/metadata.html" target="_blank">ELDP
+           Metadata for depositors</a> </li>
+       <li><a href="http://www.mpi.nl/IMDI/tools/" target="_blank">IMDI metadata
+           tools</a></li>
+    </ul>
+	 <h3><a name="projects">Sample Projects</a></h3>
+	 <ul>
+	   <li><a href="http://www.tgdp.org/archive.php" target="_blank">Texas German
+       Dialect Project</a> </li>
+    <li><a href="http://www.speech.nw.ru" target="_blank">www.speech.nw.ru</a></li>
+       <li>Yurok</li>
+       <li></li>
+    </ul>
+	 <h3><a name="recording">Recording best practice</a></h3>
+      <ul>
+        <li><i><a href="http://www.emeld.org" target="_blank">EMELD</a></i></li>
+        <li><a href="http://www.bartus.org" target="_blank">Bartek</a> Pycha,
+          including his <a href="http://bartus.org/akustyk/field.php" target="_blank">recommendations</a> for
+          field linguists. </li>
+        <li><a href="http://mura.aiatsis.gov.au">AIATSIS</a></li>
+        <li><a href="http://hrelp.org" target="_blank">ELDP</a></li>
+    </ul>
+      <h3><a name="solar">Solar power</a></h3>
+          <ul>
+            <li><a href="http://blogs.usyd.edu.au/elac/2006/08/solar_power_in_the_field_part_1.html" target="_blank">Solar
+                Power in the Field </a>[2006]</li>
+            <li><a href="http://www.nflrc.hawaii.edu/ldc/June2007/honeyman/honeyman.html" target="_blank">Solar
+                Power for the Digital Fieldworker</a> [2007] </li>
+            <li> <a href="http://ses.library.usyd.edu.au/bitstream/2123/1290/1/3FH2006.pdf" target="_blank">Powerless
+                in the Field: A Cautionary Tale...</a></li>
+            <li> <a href="http://www2.ling.su.se/staff/evali/solar.html" target="_staff">Eva
+                Lindstr&oslash;m's solar page</a></li>
+          </ul>
+
+     
+      <h3><a name="sources">(Where to go for more) Sources</a></h3>
+      <ul>
+        <li><a href="http://linguistlist.org/emeld/search/lgsearch.cfm" target="_blank">Language
+            Documentation Search</a> (<a href="http://linguistlist.org/emeld/" target="_blank">EMELD</a>)</li>
+        <li><a href="http://linguistlist.org/emeld/search/who.cfm" target="_blank">Who's
+            working on your language?</a> (<a href="http://linguistlist.org/emeld/" target="_blank">EMELD</a>) </li>
+        <li><a href="http://www.lancs.ac.uk/fss/organisations/alt/" target="_blank">Association
+        of Linguistic Typology</a></li>
+      <li><font face="Verdana"><a href="http://scholar.google.com">Google Scholar</a> </font></li>
+        <li><font face="Verdana"><a href="http://mura.aiatsis.gov.au" target="_blank">mura</a> (AIATSIS
+            Catalogue) </font></li>
+        <li><font face="Verdana"><a href="http://delaman.org" target="_blank">DELAMAN</a></font></li>
+        <li><font face="Verdana"><a href="http://paradisec.org.au" target="_blank">PARADISEC</a></font></li>
+        <li><a href="http://emeld.org" target="_blank">EMELD</a></li>
+        <li><a href="http://listserv.linguistlist.org:8080/mls/html/index.html" target="_blank">LinguistList
+            search engine</a></li>
+        <li></li>
+      </ul>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      </div> <!-- InstanceEndEditable -->
