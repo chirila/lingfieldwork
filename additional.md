@@ -11,7 +11,30 @@ Another thing that I should have been more nuanced about is the goals of fieldwo
 
 I wrote this book to have a textbook for the field methods class I was teaching at Rice (and subsequently at Yale) because I felt the existing works at the time were badly out of date and did not sit well with what I wanted my students to learn. In particular, the books available at the time were very centered on linguistic questions, or described a relationship between communities and linguists that was both foreign to my experience and very different from what I wanted my students to take away. 
 
-## On modality and signed languages
+
+
+## 'Fieldwork', 'Ethnography', and 'Documentation'
+
+
+
+## Modality and signed languages
 
 Both the first and second editions of this book are very strongly oriented towards spoken languages, and have minimal discussion of signed languages. The third edition will change that. I've added some notes in the [chapter-by-chapter notes](chapters.md) about additional references and comments for signed languages, so this book is more useful to fieldwork with all languages, not just one specific modality.
 
+
+# Technology and the field
+
+## Tools
+
+## Speech to text
+Technology has changed *a lot* since the second edition (and even more since the first).
+
+## Archiving
+
+
+## Other notes
+
+There are lots of things that could go in a book like this. I've tried to keep it short; if I put too much in it becomes more difficult to use as a textbook, and more expensive for students to purchase. There are much longer handbooks that cover many additional topics:
+
+* Oxford handbook
+* XXX

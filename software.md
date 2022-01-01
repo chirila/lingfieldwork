@@ -18,20 +18,29 @@ I'm recommending the following software tools on the basis of what I've tried ou
 * Video editing:
     - xx
 * Transcribing: 
-    - Elan
+    - [Elan](https://archive.mpi.nl/tla/elan)
     - Transcriber
     - Childes (CLAN?)
+* Displaying the results of Elan transcripts
+    - CuPeD
+    - 
+* Speech to text
+    - [Montreal forced Aligner]    
+    - [Persephone]
+    - [p2fa]
 * Keyboard mapping software: 
     - Mostly not needed, since operating systems now mostly have this built in.
     - Keyman (if needed)
+* Metadata:
+    - [Arbil](https://pure.mpg.de/rest/items/item_2021826_7/component/file_2056578/content) 
+    - [lameta](https://www.lameta.org/home),
 * Fonts:
-    - Mostly not needed, since Unicode covers IPA and other 
+    - Mostly not needed, since Unicode covers IPA and the other most commonly needed characters
     - IPA (Gentium, Charis, Doulos)
-* Other software links:
-    - UCL Speech prompt and record system software
-    - Geoff Morrison's Acoustic Recording Software page
-    - Praat scripts archive
+* Other handy links
+    - Laura MacPherson's scripts for tone work
+    - Julie Hochgesang's page on signed language fieldwork
+    - [Docling.js](https://docling.net)
 
 
 
- There are also online tools, such as [Arbil](https://pure.mpg.de/rest/items/item_2021826_7/component/file_2056578/content) and [lameta](https://www.lameta.org/home), which are a better choice for a full project.
