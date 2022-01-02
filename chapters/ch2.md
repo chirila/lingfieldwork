@@ -1,21 +1,39 @@
-# Chapter 1: What is fieldwork
+# Chapter 2:Technology
 
-Here are some suggested _discussion topics_ for class:
+§2.2.1: The summary of types of audio devices is given on the equipment page. See also UCL's recording page. While 44,100 Hz is a good standard for audio archiving, most people create working copies of their files which have a lower sampling rate (usually 22,050 Hz). It's possible to resample files in batches using Praat, Sound Forge or another audio program.
 
-* You're going to the field for the first time: what do you take?
-* You have a week to record as much of a language as possible -- how do you proceed? Make a plan for what you would like to accomplish during your time.
-* Imagine you are actually going to visit the country that your field methods class's consultant is from. Find out as much as you can about the country or the region they come from, and the language they speak.
-* Do you think that linguists have a moral (or other type of) duty to work on undescribed language?
-* Pick a language from [Glottolog](https://glottolog.org) that you don't know anything about and spend 20 minutes online trying to find out what materials are available.
+§2.2.4: Microphones
 
-## The term 'fieldwork'
+I don't recommend radio microphones, although they are tempting, because they make it easier to record while walking around. However, the recording quality is variable.
 
-I strongly recommend a discussion of [Tsikewa (2021)](https://muse.jhu.edu/article/840964) on what linguists do as part of 'fieldwork', what 'the field' is and how linguists relate to the communities they work with, what their goals are and the extent to which they are shared. The bibliography for this site has some further references under 'decolonization'. I also strongly suggest returning to the themes of this work throughout the semester -- it's not a topic that can be effectively addressed as a single point at the start (or end) of a course.
+I used lapel microphones on my most recent trip and they had both advantages and disadvantages. It was possible to reduce wind noise by having the speaker sit with their back to the wind; their body shielded the microphone to some extent. However, it was hard to position them because of the type of clothing everyone was wearing. Also, one of the clips was a bit loose and there was no way of tightening it. Clipping the mics to my equipment bag produced reasonable (if slightly soft) recordings when there was no wind. Sticking them inside the equipment bag produced reasonably good recordings of manikay (songs).
 
-## Further suggested reading:
+Transcription software:
 
-* The Left Hand of Darkness (Ursula Le Guin): Anthropology science fiction.
-* What am I doing here? (Bruce Chatwin): travel writing.
-* Balanda (My year in Arnhem Land) (Mary Ellen Jordan): Personal reiminiscences about the author's year working in a remote community and the problems she has adjusting.
+Elan
+Transcriber
+Transana
+§2.6 The equipment setup checklist is on the checklists page.
 
-When I wrote the first edition of this book, there weren't nearly as many resources on the internet for learning about people and places around the world. I've kept the relative lack of links (it's easier to maintain, for a start) but have provided some suggestions in places about points to look up.
+§2.7: Here are some suggestions for further reading:
+
+Books
+Phonetic Data Analysis (Peter Ladefoged)
+A Course in Phonetics (Peter Ladefoged)
+Vowels and Consonants (Peter Ladefoged)
+Describing Morphosyntax (Thomas Payne)
+Journals
+Language Archives Newsletter
+Language Documentation and Conservation
+Paradisec
+Best practice for recording:
+EMELD
+Bartek Pycha, including his recommendations for field linguists.
+AIATSIS
+ELDP
+Bill Poser's audio lecture notes.
+Solar power
+Solar Power in the Field [2006]
+Solar Power for the Digital Fieldworker [2007]
+Powerless in the Field: A Cautionary Tale...
+Eva Lindstrøm's solar page
