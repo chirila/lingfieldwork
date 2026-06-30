@@ -31,4 +31,4 @@ Some work to get you started in thinking about and discussing these topics (in c
 * What am I doing here? (Bruce Chatwin): travel writing.
 * Balanda (My year in Arnhem Land) (Mary Ellen Jordan): Personal reiminiscences about the author's year working in a remote community and the problems she has adjusting.
 
-When I wrote the first edition of this book, there weren't nearly as many resources on the internet for learning about people and places around the world. I've kept the relative lack of links (it's easier to maintain, for a start) but have provided some suggestions in places about points to look up.
+When I wrote the first edition of this book, there weren't nearly as many resources on the internet for learning about people and places around the world. I've kept the relative lack of links (it's easier to maintain, for a start) but have provided some suggestions in places about points to look up. Google maps lets you see a lot! But there's no excuse these days not to learn more about the lives and locations of the people whose language you're working with, whether it's down the street or on the other side of the world. 
