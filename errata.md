@@ -1,7 +1,7 @@
 
 # Errata for First Edition
 
-(These errata refer to page numbers for the first edition; they were, I believe, all corrected for the 2nd edition).
+These errata refer to page numbers for the first edition; they were, I believe, all corrected for the 2nd edition and we didn't introduce anything else between the 1st and 2nd edition to require correction for the 3rd.
 
 * p49: In the comment about class preparation: I meant the preparation for the teacher/instructor, not for the student doing homework. That might not be clear.
 * p60: The first 'rem.pst' gloss should read 'rec.pst' (recent past)

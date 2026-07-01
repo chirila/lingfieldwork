@@ -1,6 +1,6 @@
 # chirila.github.io/lingfieldwork
 
-Materials to accompany Claire Bowern's _Linguistic Fieldwork: A Practical Guide_ (2nd edition)
+Materials to accompany Claire Bowern's _Linguistic Fieldwork: A Practical Guide_ (3rd edition)
 
 * Additional notes for each [chapter](chapters.md) and notes on updates
 * [links](links.html)

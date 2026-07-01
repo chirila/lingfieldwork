@@ -1,4 +1,4 @@
-(note that links go to [bookshop.org](https://bookshop.org), which generates affiliate links which are donated to the Endangered Language Fund)
+Links go to [bookshop.org](https://bookshop.org), which generates affiliate links which are donated to the Endangered Language Fund.
 
 
 
