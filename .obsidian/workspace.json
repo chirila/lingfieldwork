@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software.md",
+                "file": "resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "software"
+              "title": "resources"
             }
           }
         ],
@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -200,10 +202,11 @@
   },
   "active": "6abaf2aa72925c45",
   "lastOpenFiles": [
+    "sample.md",
+    "software.md",
     "errata.md",
     "resources.md",
     "README.md",
-    "software.md",
     "chapters/ch1.md",
     "chapters.md"
   ]

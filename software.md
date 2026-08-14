@@ -13,12 +13,16 @@ I'm recommending the following software tools on the basis of what I've tried ou
     - There are tools in python (e.g. parselmouth) and praat (e.g. through EMU and wrassp), as well as MatLab, to work with phonetic data
 * Corpus software 
     - These days most people either use flex, Elan's flexible searches, or keep transcripts in a text file that they search using a GREP-enabled text editor.
+    - Obsidian
+* Online recording
+	* OBS for WhatsApp
+	* Zoom (local recording plus upload)
 * Sound editing: 
     - Audacity 
-    - Audiamus
+    - ffmpeg
     - **Praat**
 * Video editing:
-    - xx
+    - VLC
 * Transcribing: 
     - **[Elan](https://archive.mpi.nl/tla/elan)**
     - Transcriber
@@ -34,8 +38,8 @@ I'm recommending the following software tools on the basis of what I've tried ou
     - Mostly not needed, since operating systems now mostly have this built in.
     - Keyman (if needed)
 * Metadata:[^1]
-    - [Arbil](https://pure.mpg.de/rest/items/item_2021826_7/component/file_2056578/content) 
     - [lameta](https://www.lameta.org/home),
+    - [Arbil](https://pure.mpg.de/rest/items/item_2021826_7/component/file_2056578/content) 
     - spreadsheet
 * Fonts:
     - Mostly not needed, since Unicode covers IPA and the other most commonly needed characters, but for languages that have particular requirements, you'll probably know that already.
