@@ -25,13 +25,13 @@ I'm recommending the following software tools on the basis of what I've tried ou
     - VLC
 * Transcribing: 
     - **[Elan](https://archive.mpi.nl/tla/elan)**
-    - Transcriber
+    - Transcriber is still used 
     - Childes (CLAN?)
 * Displaying the results of Elan transcripts
     - CuPeD
-    - 
+    - Kwaras
 * Speech to text
-    - [Montreal forced Aligner]    
+    - **[Montreal forced Aligner]**
     - [Persephone]
     - [p2fa]
 * Keyboard mapping software: 
@@ -49,6 +49,6 @@ I'm recommending the following software tools on the basis of what I've tried ou
     - Julie Hochgesang's page on signed language fieldwork
     - **langdoc.net**
 
-
+%% There's also a links page%%
 
 [^1]: Whatever you'll actually fill in is the recommendation.

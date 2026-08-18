@@ -1,21 +1,46 @@
-# Chapter 1: What is fieldwork
 
-Here are some suggested _discussion topics_ for class:
+Chapter 4
+# Chapter 4
 
-* You're going to the field for the first time: what do you take?
-* You have a week to record as much of a language as possible -- how do you proceed? Make a plan for what you would like to accomplish during your time.
-* Imagine you are actually going to visit the country that your field methods class's consultant is from. Find out as much as you can about the country or the region they come from, and the language they speak.
-* Do you think that linguists have a moral (or other type of) duty to work on undescribed language?
-* Pick a language from [Glottolog](https://glottolog.org) that you don't know anything about and spend 20 minutes online trying to find out what materials are available.
+4.1 Preparation. I'm not a big fan of endless lists, colour-coding, or anything like that, but I do recommend some way of keeping track of the tasks you need to do in the field, if only because there is so much to do. It's very easy to lose track of urgent items. You could use a "task" program, keep a list in a file in your database, or use a notebook.
 
-## The term 'fieldwork'
+There's a formal elicitation plan in the sample Hungarian data. To be honest, I'm never this organised in the field. I usually just write down a heap of prompts (organised by topic) and get through as many as possible, which varies a lot depending on digressions, interruptions, etc. I'll mark the stuff I want to do in a session with post-it notes. It has the advantage of flexibility.
 
-I strongly recommend a discussion of [Tsikewa (2021)](https://muse.jhu.edu/article/840964) on what linguists do as part of 'fieldwork', what 'the field' is and how linguists relate to the communities they work with, what their goals are and the extent to which they are shared. The bibliography for this site has some further references under 'decolonization'. I also strongly suggest returning to the themes of this work throughout the semester -- it's not a topic that can be effectively addressed as a single point at the start (or end) of a course.
+A comment re pens, etc. The cheaper the pens and paper the better they seem to resist water damage. I've never done any experiments on this but it's my impression after many trips where I've returned with wet pieces of paper from boat trips, leaking ceilings or coffee/water spills.
 
-## Further suggested reading:
+4.2.1 Backups: Use name-brand CDs and DVDs rather than noname brands: they are slightly higher quality, have a lower failure rate and are probably a bit more durable.
 
-* The Left Hand of Darkness (Ursula Le Guin): Anthropology science fiction.
-* What am I doing here? (Bruce Chatwin): travel writing.
-* Balanda (My year in Arnhem Land) (Mary Ellen Jordan): Personal reiminiscences about the author's year working in a remote community and the problems she has adjusting.
+I've heard of several hard drive failure stories that resulted in extensive data loss (and have had a couple of near-misses myself). Don't just use one type of backup media! Also, remember never to store your backups in the same place. It's very easy to do this accidentally, for example by piling up a bunch of DVDs with your computer for a week before sending them off.
 
-When I wrote the first edition of this book, there weren't nearly as many resources on the internet for learning about people and places around the world. I've kept the relative lack of links (it's easier to maintain, for a start) but have provided some suggestions in places about points to look up.
+4.2.2 On labelling: I use a system that involves my initials (CB), a language abbreviation (e.g. YN for Yan-nhaŋu), the session number and the track number. This is a compromise after many years of multiple audio formats (analogue casette, mini-disc, DAT and Compact Flash) and a recording collection that includes items from many different collectors. (I don't use standard abbreviations because not all the languages I've worked on have ISO-639 codes, and I don't use dates because I have recordings where the date isn't known.) If I were starting with a numbering system now, I'd use one based on collection or date.
+
+4.3 Software. See here for my recommendations. I highly recommend using software that will run without an internet connection.
+
+Test your computer before you leave. Once you're in the field, don't change too many settings or uninstall programs unless you absolutely have to. You don't want to do anything that is likely to make your system unstable.
+
+4.4 Metadata
+
+A useful resource is http://ahds.ac.uk/creating/information-papers/metadata/index.htm
+
+Some metadata lists useful for linguistics:
+
+(Links open in a new window)
+
+http://ahds.ac.uk/creating/information-papers/metadata/index.htm
+EMELD ORE Metadata Editor
+DSpace
+ELDP Metadata for depositors
+IMDI metadata tools
+4.6 Archiving
+
+DELAMAN
+Survey of Californian and Other Indian Languages
+Hans Rausing Endangered Languages Documentation Project
+Australian Institute of Aboriginal and Torres Strait Islander Studies
+African Language Material Archive
+Alaska Native Language Center
+Archive of the Indigenous Languages of the Americas
+LACITO
+Smithsonian National Anthropological Archives
+Rosetta Project
+Texas German Dialect Project

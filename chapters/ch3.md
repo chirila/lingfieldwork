@@ -34,3 +34,4 @@ The first field session: see the data here for [Hungarian](sample.md).
 * Phonetic Data Analysis (Peter Ladefoged)
 * Linguistic Fieldwork (Paul Newman and Martha Ratlif)
 * An Introduction to Phonetics and Phonology (John Clarke, Collin Yallop and Janet Fletcher)
+
