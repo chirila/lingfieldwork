@@ -52,3 +52,8 @@ I'm recommending the following software tools on the basis of what I've tried ou
 %% There's also a links page%%
 
 [^1]: Whatever you'll actually fill in is the recommendation.
+
+
+Other links:
+
+https://www.gerlingo.com/config_maker.html - Elan inventory taker
