@@ -17,6 +17,7 @@ I'm recommending the following software tools on the basis of what I've tried ou
 * Online recording
 	* OBS for WhatsApp
 	* Zoom (local recording plus upload)
+	* Other examples that can be used for podcasts
 * Sound editing: 
     - Audacity 
     - ffmpeg
@@ -57,3 +58,9 @@ I'm recommending the following software tools on the basis of what I've tried ou
 Other links:
 
 https://www.gerlingo.com/config_maker.html - Elan inventory taker
+
+OBS open broadcast suite for recording
+How to share prompts, etc, hard to read on phones
+recording in situ vs recordings that are done online (mark them)
+
+Livescribe type pens, automatic note taking.

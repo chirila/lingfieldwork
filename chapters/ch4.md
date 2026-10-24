@@ -44,3 +44,14 @@ LACITO
 Smithsonian National Anthropological Archives
 Rosetta Project
 Texas German Dialect Project
+
+
+Suggestions for how to keep track of tasks
+
+#todo Obsidian stuff goes in this chapter
+
+comment on "native speaker/signer" 
+
+4.9 comments about google drive
+
+
